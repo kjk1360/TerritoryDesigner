@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4a99e2766219e54c86efc97e8dea089
+timeCreated: 1521460906
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114740
+  packageName: BG Localization
+  packageVersion: 1.8.11
+  assetPath: Assets/BansheeGz/BGLocalization/Scripts/BGLocalizationSourceCode.unitypackage
+  uploadId: 678728

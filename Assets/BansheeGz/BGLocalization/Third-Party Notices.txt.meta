@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8d3e46be5633ed419725777f36b95fb
+timeCreated: 1531476059
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 114740
+  packageName: BG Localization
+  packageVersion: 1.8.11
+  assetPath: Assets/BansheeGz/BGLocalization/Third-Party Notices.txt
+  uploadId: 678728
